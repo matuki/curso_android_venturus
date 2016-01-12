@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Venturus</string>
+    <string name="like_counter">%1$d likes</string>
+    <string name="download_text">Baixando Imagem</string>
+    <string name="download_completed_text">Imagem baixada!</string>
+</resources>
